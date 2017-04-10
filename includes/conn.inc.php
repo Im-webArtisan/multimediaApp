@@ -7,8 +7,8 @@
  */
 
 $db_host = 'localhost';
-$db_user = 'Jay';
-$db_psw = 'kajay';
+$db_user = 'root';
+$db_psw = '';
 $db_name = 'multimedia';
 
 $conn = new mysqli($db_host, $db_user, $db_psw, $db_name);
