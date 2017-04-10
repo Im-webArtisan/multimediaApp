@@ -1,0 +1,48 @@
+html, body{
+    height: 100%;
+}
+#cover{
+    background: #222 url('img/homepage.jpg') bottom center no-repeat;
+    height: 100%;
+}
+.navbar-custom {
+    background-color:transparent;
+    color:#ffffff;
+    border-radius:0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#fff;
+}
+
+.navbar-custom .navbar-brand {
+    color:#eeeeee;
+}
+.cover-caption{
+    text-align: center;
+    padding-top: 50px;
+    color: white; 
+}
+.title{
+    font-weight:700;
+}
+.intro{
+    font-weight:500;
+}
+.fa.fa-size{
+    font-size: 50px;
+	color: aliceblue;
+	white-space: normal;
+}
+
+hr{
+    margin:auto;
+    width: 150px;
+    border-width: 3px;
+    border-color: #ffffff;
+}
+.category, .file, .search{
+    background-color: transparent !important;
+    color: #ffffff;
+}
+
